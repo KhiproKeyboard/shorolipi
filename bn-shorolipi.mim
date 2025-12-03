@@ -1,6 +1,11 @@
 (input-method bn shorolipi)
 
-(description "Placeholder")
+(description "
+<Placeholder>
+Authors:
+  Nafee [<https://github.com/rank-coder>]
+  Tareq Rahman [<https://github.com/Shoshostro>]
+")
 
 (title "b")
 (map
