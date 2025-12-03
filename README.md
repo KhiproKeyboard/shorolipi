@@ -1,7 +1,7 @@
 # Shörolipi
 ### Shörol + Shör + Lipi
 ## কী এই shörolipi?
-যা যা করা যাবে এই shörolipi দিয়ে:
+### Key Features
 ```mermaid
 flowchart LR
     A("রোমান বা লাতিন লিপিতে বাংলা লিখব")  --> B("পড়া যাবে দ্ব্যর্থহীনভাবে (unabmiguosly)")
