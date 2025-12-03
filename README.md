@@ -22,7 +22,8 @@ K("মেলা
 (ম্যালা)") --> L("mëla")
 ```
 #### ফোনে যেমন দেখাবে
-![Screenshot_20251204_012309_Telegram](https://github.com/user-attachments/assets/eb620b1b-fb8d-4969-9954-4c0792b16d50)
+
+![Screenshot_20251204_012309](https://github.com/user-attachments/assets/874fe7dc-16db-4bd6-894b-842f15ca9886)
 
 
 ### হাইলাইটস
