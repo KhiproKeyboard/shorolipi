@@ -1,5 +1,5 @@
 # Shörolipi
-## Shörol + Shör + Lipi
+### Shörol + Shör + Lipi
 ### কী এই shörolipi?
 যা যা করা যাবে এই shörolipi দিয়ে:
 ```mermaid
