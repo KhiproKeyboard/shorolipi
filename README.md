@@ -1,6 +1,24 @@
 # Shörolipi
-## Shörol | Shör | Lipi
-What is shorolipi?
+## Shörol + Shör + Lipi
+### কী এই shörolipi?
+যা যা করা যাবে এই shörolipi দিয়ে:
+```mermaid
+flowchart LR
+    A("রোমান বা লাতিন লিপিতে বাংলা লিখব")  --> B("পড়া যাবে দ্ব্যর্থহীনভাবে (unabmiguosly)")
+    A --> E("বাংলার সকল উচ্চারণ লেখা সম্ভব হবে")
+    A --> C("মাত্র ২৬টি বর্ণ দিয়ে লেখা যাবে") --> D("সহজেই ফিট হবে আমাদের পরিচিত সব কিবোর্ডে")
+    D --> F("ইংরেজির মতোই দ্রুত লেখা যাবে")
+```
+#### উদাহরণ
+```mermaid
+flowchart TD
+A("পোরা") --> B("pora")
+E("পরা") --> F("pöra")
+G("পোড়া") --> H("poṛa")
+C("পড়া") --> D("pöṛa")
+I("মেলা (মিলিত হওয়া) ") --> J("mela")
+K("মেলা (জনসমাগম / প্রচুর) (ম্যালা)") --> L("mëla")
+```
 
 ### হাইলাইটস
 
@@ -145,18 +163,4 @@ flowchart LR
     A --> C
     B --> D
 ```
-
-
-### Styling Demo (GitHub Compatible)
-```mermaid
-flowchart TD
-    %% Comments work
-    A["Bold Text"] --> B["Italic Text"]
-    B --> C["Line<br/>Break"]
-    C -.-> D["Inline Code"]
-    D --> E["Normal Node"]
-    E -.-> F["Dashed Arrow"]
-    F -->|Thick| G["Simulated Thick Arrow"]
-```
-
 
