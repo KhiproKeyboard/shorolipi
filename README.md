@@ -1,5 +1,5 @@
 # Shörolipi
-## Shorol + Shor + Lipi
+## Shörol | Shör | Lipi
 What is shorolipi?
 
 ### হাইলাইটস
