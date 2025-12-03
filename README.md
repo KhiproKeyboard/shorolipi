@@ -1,5 +1,5 @@
 # Shörolipi
-Shorol + Shor + Lipi = Shorolipi
+## Shorol + Shor + Lipi
 What is shorolipi?
 
 ### হাইলাইটস
