@@ -1,0 +1,33 @@
+(input-method bn shorolipi)
+
+(description "Placeholder")
+
+(title "b")
+(map
+(trans
+
+
+;; Mappings
+("q" "ṛ") 
+("w" "ḍ")
+("v" "ṭ")
+("f" "ö")
+("z" "ŋ")
+("x" "ë")
+
+("Q" "ṛ") 
+("W" "ḍ")
+("V" "ṭ")
+("F" "ö")
+("Z" "ŋ")
+("X" "ë")
+
+ 
+("/" "̃") ("//" "/")
+ 
+
+))
+
+(state
+  (init
+    (trans)))
