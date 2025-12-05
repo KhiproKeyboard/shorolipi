@@ -58,6 +58,16 @@ i("ষাট") --> j("shaṭ")
 
 ```
 
+```mermaid
+flowchart TD
+e("ক্যান
+(why)") --> f("kën")
+A("কেন
+(why)") --> B("këno")
+c("কেনো
+(you buy)") --> d("keno")
+```
+
 ## কীভাবে / কোথায় ব্যবহার করব?
 1. ফোনে Heliboard -এ কাস্টোম লেআউট তৈরি করে লেখা যাবে
 2. লিনাক্স পিসিতে [bn-shorolipi.mim for m17n](bn-shorolipi.mim) ব্যবহার করে লেখা যাবে।
