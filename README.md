@@ -83,8 +83,8 @@ Placeholder
 🔗 টেলিগ্রাম গ্রুপ: [**বাংলা লিখন বিপ্লব | shörolipi**](https://t.me/BanglaScriptRevolution)
 
 ### Authors
-[@rank-coder](https://github.com/rank-coder)\
-[@shoshostro](https://github.com/Shoshostro)
+Nafee [@rank-coder](https://github.com/rank-coder)\
+Tareq Rahman [@shoshostro](https://github.com/Shoshostro)
 
 ## বিস্তারিত নির্দেশনা
 ### ক্যাপিটালাইজেশন তথা বড়ো হাতের বর্ণের ব্যবহার
