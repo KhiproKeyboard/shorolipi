@@ -1,5 +1,5 @@
 # Shörolipi (সরলিপি)
-### Shörol + Shör + Lipi
+### Shörol (সরল) + Shör (স্বর) + Lipi (লিপি)
 ## কী এই shörolipi?
 ### Key Features
 ```mermaid
