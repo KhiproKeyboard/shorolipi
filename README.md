@@ -1,4 +1,4 @@
-# Shörolipi
+# Shörolipi (সরলিপি)
 ### Shörol + Shör + Lipi
 ## কী এই shörolipi?
 ### Key Features
